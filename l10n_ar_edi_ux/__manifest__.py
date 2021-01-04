@@ -18,7 +18,7 @@
         'wizards/res_config_settings_view.xml',
         'wizards/res_partner_update_from_padron_wizard_view.xml',
         'views/res_partner_view.xml',
-        'views/account_move_view.xml',
+        #'views/account_move_view.xml',
     ],
     'installable': True,
     'auto_install': True,
